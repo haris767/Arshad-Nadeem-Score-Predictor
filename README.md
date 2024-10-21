@@ -18,6 +18,7 @@ matplotlib
 (Include any other libraries your project depends on)
 Installation
 Clone the repository:
+https://github.com/haris767/Arshad-Nadeem-Score-Predictor.git
 
 Usage
 Prepare your dataset in a CSV format with the relevant features and target score.
